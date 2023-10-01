@@ -60,4 +60,4 @@ The dataset used for this analysis is available [here](https://drive.google.com/
 
 ## Contributors
 
-- [Dhanunjay]([insert_your_github_profile_link_here](https://github.com/Dhanunjayaluri/)https://github.com/Dhanunjayaluri/)
+- [Dhanunjay](https://github.com/Dhanunjayaluri)
