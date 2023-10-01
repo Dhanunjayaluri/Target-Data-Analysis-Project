@@ -4,6 +4,13 @@
 
 This repository contains an in-depth analysis of Target's operations in Brazil based on a dataset of 100,000 orders placed between 2016 and 2018. The analysis focuses on various dimensions, including order status, pricing strategies, payment and shipping efficiency, customer demographics, product characteristics, and customer satisfaction levels. The insights gained from this analysis can help optimize Target's operations and enhance customer satisfaction in the Brazilian market.
 
+## Project Reports
+
+For a detailed analysis with SQL queries and their outputs, you can refer to the following reports:
+
+- [Full Project Report (PDF)]([documentation/full_project_report.pdf](https://onedrive.live.com/?authkey=%21ADUjzHcSu%5Fs33kc&id=20E1D6B7BEF796F7%21148&cid=20E1D6B7BEF796F7&parId=root&parQt=sharedby&o=OneUp)) - Contains all SQL queries, detailed analysis, and outputs for the entire project.
+
+
 ## Table of Contents
 
 - [Dataset](#dataset)
